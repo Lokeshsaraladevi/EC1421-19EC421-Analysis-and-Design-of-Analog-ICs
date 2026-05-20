@@ -23,25 +23,7 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 
 ### LOWPASS FILTER CIRCUIT DIAGRAM:
-
+<img width="1065" height="596" alt="image" src="https://github.com/user-attachments/assets/a73b1248-dffb-497a-8bb0-17c326772423" />
 
 ### HIGHPASS FILTER CIRCUIT DIAGRAM:
-
-
-### BANDPASS FILTER CIRCUIT DIAGRAM:
-
-
-
-
-
-## OUTPUT GRAPH:
-
-### LOWPASS FILTER:
-
-### HIGHPASS FILTER:
-
-### BANDPASS FILTER:
-
-## RESULT:
-Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
-
+<img wid
