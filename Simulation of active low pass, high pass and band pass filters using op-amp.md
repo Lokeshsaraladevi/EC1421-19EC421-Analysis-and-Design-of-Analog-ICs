@@ -18,29 +18,22 @@ LT-Spice
 4. Complete the connection.
 5. Save the file by giving file name.
 6. Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
-7. Click on the run option ->simulation window opens->place the probe ->output graph is obtai
-
-## CIRCUIT DIAGRAM:
-
-### LOWPASS FILTER CIRCUIT DIAGRAM:
-<img width="1065" height="596" alt="image" src="https://github.com/user-attachments/assets/a73b1248-dffb-497a-8bb0-17c326772423" />
-
-### HIGHPASS FILTER CIRCUIT DIAGRAM:
-<img width="1671" height="920" alt="image" src="https://github.com/user-attachments/assets/2c84d383-a30e-42a1-b1cc-2b35a78d7020" />
-
-### BANDPASS FILTER CIRCUIT DIAGRAM:
-<img width="1258" height="607" alt="image" src="https://github.com/user-attachments/assets/bade7c4a-46eb-460b-97ea-04b955b2b32f" />
-
-## OUTPUT GRAPH:
+7. Click on the run option ->simulation window opens->place the probe ->output graph is obtain
+## MODEL GRAPH:
 
 ### LOWPASS FILTER:
-<img width="946" height="469" alt="image" src="https://github.com/user-attachments/assets/5eb1165d-9091-42f1-aa70-866c00457467" />
+![WhatsApp Image 2025-09-04 at 14 34 56_e309ea4c](https://github.com/user-attachments/assets/2b692600-5b5c-45b2-a144-492a7b3c2162)
 
 ### HIGHPASS FILTER:
-<img width="938" height="451" alt="image" src="https://github.com/user-attachments/assets/3760c960-0803-4693-a4a0-b794a049e092" />
+![WhatsApp Image 2025-11-15 at 22 46 37_b7b74fa5](https://github.com/user-attachments/assets/bea89b70-7816-4d08-8f96-45eed1d9df2f)
 
 ### BANDPASS FILTER:
-<img width="936" height="455" alt="image" src="https://github.com/user-attachments/assets/ee511573-f025-44c0-9476-1ee96ecf76dd" />
+![WhatsApp Image 2025-11-15 at 22 41 30_77eec2aa](https://github.com/user-attachments/assets/8e373285-836d-42b9-bca3-e641680487e2)
+## OUTPUT
+
+<img width="1251" height="1600" alt="image" src="https://github.com/user-attachments/assets/247dc113-a2a1-48be-b5bd-dae51cafc00b" />
+
+<img width="2159" height="1151" alt="image" src="https://github.com/user-attachments/assets/b08c72b2-0132-4b8c-b827-ec1ec7860266" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
