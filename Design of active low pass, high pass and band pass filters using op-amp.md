@@ -101,4 +101,3 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 
-
